@@ -1,3 +1,4 @@
+index.html
 speaker-ef.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html lang="it">
